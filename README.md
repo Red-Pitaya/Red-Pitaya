@@ -1,4 +1,4 @@
-### Hi, Liana here! 👋
+### Hi, liana here! 👋
 
 - ✨ 这里是一个编程菜鸡（大三啦）
 - 🔭 主要写写（目前只会）`c++`和`python`
@@ -8,5 +8,5 @@
 - 🤔 水平有限，很需要大家的帮助！先谢谢大家~
 - 👯 好耶！
 
-![](https://github-readme-stats.vercel.app/api?username=Red-Pitaya&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=Red-Pitaya)
 
