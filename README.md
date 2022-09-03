@@ -8,5 +8,5 @@
 - 🤔 水平有限，很需要大家的帮助！先谢谢大家~
 - 👯 好耶！
 
-![](https://github-readme-stats.vercel.app/api?username=Red-Pitaya)
+![](https://github-readme-stats.vercel.app/api?username=Red-Pitaya?theme=THEME_NAME radical)
 
